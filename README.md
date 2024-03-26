@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **rahulbiswas0812@gmail.com**
 <h4>Contributors</h4>
-<h5><a href="https://github.com/rahul-812" target="blank">Rahul Biswas</a></h5>
+<a href="https://github.com/rahul-812" target="blank">Rahul Biswas</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
