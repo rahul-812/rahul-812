@@ -8,6 +8,7 @@
 - 💬 Ask me about **flutter, react, android, Kotlin**
 
 - 📫 How to reach me **rahulbiswas0812@gmail.com**
+Rahul Biswas:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
